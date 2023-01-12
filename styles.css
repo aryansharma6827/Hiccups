@@ -1,0 +1,192 @@
+body {
+    background-color: #FFFFFF;
+}
+
+
+@media (min-width:1024px) {
+    .navbar-nav {
+        position: absolute;
+        right: 20px;
+    }
+
+}
+
+@media(max-width:427px) {
+    .row h4 {
+        font-size: 1rem;
+    }
+
+    .row img {
+        width: 34%;
+        margin-top: 0px;
+    }
+}
+
+@media(min-width:427px) and (max-width:767px) {
+    .rows h4 {
+        font-size: 1.1rem;
+    }
+}
+
+
+.nav-link {
+
+    font-size: large;
+    color: beige;
+}
+
+.navbar-brand img {
+    margin-left: 10px;
+}
+
+.con1 {
+    width: 100%;
+    height: 500px;
+    background-color: rgb(255, 103, 103);
+    text-align: center;
+}
+
+.heading {
+    font-family: 'Lobster Two', cursive;
+    ;
+    color: beige;
+}
+
+.secound {
+    height: 89%;
+}
+
+.secound h3 {
+    margin-top: 10%;
+    font-weight: bold;
+    font-family: ' Gloria Hallelujah', cursive;
+
+}
+
+.secound h4 {
+    margin-top: 5%;
+    line-height: 1.7;
+    font-family: 'Merriweather',
+        serif;
+    font-weight: bold;
+}
+
+.secound img {
+    margin-top: 9%;
+    height: 62%;
+
+}
+
+.con2 {
+    margin-top: 3%;
+}
+
+.feature-box p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.feature-title {
+    margin: 20px;
+}
+
+.colored-section {
+    margin-top: 12pxpx;
+}
+
+.carousel-control-prev-icon {
+    outline: black;
+    background-color: black;
+
+}
+
+.carousel-control-next-icon {
+    outline: black;
+    background-color: black;
+
+}
+
+.about {
+    background-color: gainsboro;
+}
+
+.about-img {
+    margin-top: 10px;
+}
+
+.about-us {
+    background-color: green;
+}
+
+.about {
+    height: 77%;
+    background-color: rgb(173, 248, 255);
+
+}
+
+
+
+.about-text h3 {
+    margin: 15px;
+}
+
+.about-text p {
+    line-height: 1.7;
+}
+
+.subscribe {
+    margin-top: 20px;
+
+}
+
+.templ {
+    background-color: white;
+}
+
+.card-text {
+    line-height: 1.8;
+}
+
+.btn-primary {
+    margin-top: 5px;
+}
+
+.card-title {
+    margin-bottom: 7px;
+}
+
+.zoo {
+    margin: auto;
+    margin-top: 2rem;
+}
+
+.subscribe {
+    margin-top: 2rem;
+}
+
+.subscribe h2 {
+    font-family: 'Cormorant Garamond',
+        serif;
+}
+
+.contact {
+    margin-top: 3rem;
+    height: 19rem;
+    background-color: rgb(255, 103, 103);
+}
+
+.inn {
+    position: relative;
+    top: 5rem;
+}
+
+.contact button {
+    margin-top: 8rem;
+}
+
+footer {
+    margin-top: 2rem;
+}
+
+footer a {
+    color: black;
+}
